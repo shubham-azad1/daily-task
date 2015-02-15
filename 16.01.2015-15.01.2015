@@ -1,0 +1,11 @@
+Task done 
+Interfacing of EEPROM chips with PIC24 studied and code written.
+In depth study of UART and ADC peripherals.
+Struggling in doing simulation stuff on Proteus.
+ 
+Outcome
+The fear of dealing with numerous registers in pic has gone away since the compiler XC16 has inbuilt library for various peripherals including ADC, I2C, SPI,etc.
+Have found many useful links which will be helpful while dealing PIC24 family.
+
+Future Work
+Implementation of codes on the kit. (The kit should be provided to the team at its earliest; sooner the better)
